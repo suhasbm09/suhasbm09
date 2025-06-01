@@ -16,7 +16,7 @@
 # 👋 Hey there, I’m **Suhas B M**  
 > _“Building tomorrow’s tech, one line of code at a time.”_
 
-I’m a 3rd-year CSE student (Mysuru, India) with a deep obsession for **systems**, **AI/ML**, and **blockchain**. I thrive on transforming raw ideas into polished, production-ready projects—ranging from Solana dApps to AI-driven web tools—while shipping clean code and modern architecture.
+I’m a 3rd-year CSE student (Mysuru, India) with a deep obsession for **systems**, **AI/ML**, and **blockchain**. I thrive on transforming raw ideas into polished, production-ready projects - ranging from Solana dApps to AI-driven web tools - while shipping clean code and modern architecture.
 
 ---
 
@@ -36,16 +36,17 @@ I’m a 3rd-year CSE student (Mysuru, India) with a deep obsession for **systems
 ## 🚀 Tech Stack
 
 <div align="center">
-  
-| Language & Runtime | Frameworks & Libraries | DevOps & Cloud   | Tools & Databases    |
-|:------------------:|:----------------------:|:----------------:|:--------------------:|
-| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> C      | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> Flask        | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> Docker      | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> MySQL         |
-| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> C++   | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" /> Django       | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> MongoDB       |
-| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> FastAPI    | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> Firestore     |
-| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React         |  |
-| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> Rust   | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> TailwindCSS  | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> GitHub       |
-  
+
+| Language & Runtime                                                                 | Frameworks & Libraries                                                                 | DevOps & Cloud                                                                 | Tools & Databases                                                                 |
+|:----------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
+| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> C | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> Flask | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> Docker | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> MySQL |
+| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> C++ | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" /> Django | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> Jenkins | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> MongoDB |
+| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> GitHub | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> Firestore |
+| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> TailwindCSS |  |  |
+| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> Rust |  |  |  |
+
 </div>
+
 
 ---
 
