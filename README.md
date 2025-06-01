@@ -66,7 +66,7 @@ A Solana-based, AI-integrated credentialing platform that mints **soulbound NFTs
   - On-chain minting of **Soulbound NFTs** via **create_metadata_account_v3** & **create_master_edition_v3**  
   - Integrated **MongoDB** tracking of user history & skill completion  
   - Interactive Flow: **Home → Challenge → Result → History**  
-- 🔗 [GitHub Repo]([https://github.com/suhasbm09/SKILL_FLEX](https://github.com/suhasbm09/SKILL_FLEX.git))  
+- 🔗 [GitHub Repo](https://github.com/suhasbm09/SKILL_FLEX)  
 
 ---
 
@@ -85,7 +85,7 @@ A decentralized platform to track surplus medicine donations, ensure transparenc
   - QR-based verification flow for NGOs and donors  
   - Feedback loop stored in Firebase, synchronized with blockchain state  
   - Ongoing: Integrating LLM-based donor-NGO matching  
-- 🔗 [GitHub Repo]([https://github.com/suhasbm09/Vionex](https://github.com/suhasbm09/Vionex.git))  
+- 🔗 [GitHub Repo](https://github.com/suhasbm09/Vionex)  
 
 ---
 
@@ -102,7 +102,7 @@ A developer tool that auto-generates code comments, improving readability and ma
   - **Live video background UI** for a modern look  
   - Supports multiple languages (Python, C++, JS) with context-aware comment generation  
   - Integrated **GitHub Actions** for automated testing & deployment  
-- 🔗 [Live Demo](#) · [GitHub Repo]([https://github.com/suhasbm09/ai-code-commenter](https://github.com/suhasbm09/ai-code-commentor.git))  
+- 🔗 [GitHub Repo](https://github.com/suhasbm09/ai-code-commenter)  
 
 ---
 
@@ -118,20 +118,20 @@ A T5-based NLP web app to correct grammar and spelling mistakes on-the-fly.
 - **Highlights**:  
   - **Real-time feedback** on user input  
   - Automatic detection of common grammar pitfalls  
-- 🔗 [GitHub Repo]([https://github.com/suhasbm09/ai-auto-correct](https://github.com/suhasbm09/AutoCorrect-tool.git))  
+- 🔗 [GitHub Repo](https://github.com/suhasbm09/ai-auto-correct)  
 
 ---
 
 ### 5. **College Enquiry Chatbot **  
   
-- 🔗 [GitHub Repo]([https://github.com/suhasbm09/college-chatbot](https://github.com/suhasbm09/College_enquiry_chatbot.git))  
+- 🔗 [GitHub Repo](https://github.com/suhasbm09/college-chatbot)  
 
 
 ---
 
 ## 📫 Let’s Connect!
 - 📧 **Email**: [suhaasbm2004@gmail.com](mailto:suhaasbm2004@gmail.com)  
-- 🌐 **LinkedIn**: [Suhasbm](https:www.linkedin.com/in/suhas-b-m-88a179244)  
+- 🌐 **LinkedIn**: [Suhasbm](www.linkedin.com/in/suhas-b-m-88a179244)  
  
 ---
 
