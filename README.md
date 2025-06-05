@@ -9,7 +9,7 @@
 
 ## About Me
 
-I’m a 3rd-year CSE student at NIE, Mysuru — building AI + Solana systems end-to-end.  
+I’m a 3rd-year CSE student at NIE, Mysuru - building AI + Solana systems end-to-end.  
 No handoffs. No shortcuts. Every line of code, smart contract, and CI/CD pipeline is designed for scale and iteration.  
 This repo is a preview of what I’m shipping today and what I’ll build next.
 
@@ -151,4 +151,4 @@ This repo is a preview of what I’m shipping today and what I’ll build next.
 
 ---
 
-> “Clarity, ownership, and iteration — every system, built to last.”
+> “Clarity, ownership, and iteration - every system, built to last.”
