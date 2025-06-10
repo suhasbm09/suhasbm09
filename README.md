@@ -59,7 +59,7 @@ Every line of code I write—from backend APIs to Anchor smart contracts—is bu
 - 💊 **[Vionex](https://github.com/suhasbm09/Vionex)**  
   A decentralized medicine donation platform with AI matcher and blockchain-backed traceability.
 
-- 🎓 **[College Enquiry Chatbot](https://github.com/suhasbm09/College_enquiry_chatbot)**  
+- 🎓 **[College_Chatbot](https://github.com/suhasbm09/College_Chatbot)**  
   AI-driven chatbot for campus info powered by OpenRouter and RAG.
 
 - 💬 **[AI Code Commenter](https://github.com/suhasbm09/ai-code-commentor)**  
