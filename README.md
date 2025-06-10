@@ -94,7 +94,7 @@ Every line of code I write—from backend APIs to Anchor smart contracts—is bu
 
 - 📧 [suhasbannihattimurali@gmail.com](mailto:suhasbannihattimurali@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/suhas-b-m-88a179244)  
-- 🌐 [Portfolio]: (https://portfolio-suhasbm.vercel.app)
+- 🌐 [Portfolio](https://portfolio-suhasbm.vercel.app)
 
 ---
 
