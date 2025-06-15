@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey, I’m Suhas B M 👋</h1>
 <p align="center"><strong>Final Year CSE </strong></p>
-
+<h4 align='center'>![Profile views](https://komarev.com/ghpvc/?username=suhasbm09&color=blue)</h4>
 ---
 
 ## 🧠 About Me
