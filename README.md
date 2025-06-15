@@ -3,14 +3,7 @@
 </p>
 
 <h1 align="center">Hey, I’m Suhas B M 👋</h1>
-<p align="center"><strong>Final Year CSE </strong></p>
-![Profile views](https://komarev.co<p align="center">
-  <img src="assets/banner.png" alt="Suhas B M Banner" width="100%" />
-</p>
-
-<h1 align="center">Hey, I’m Suhas B M 👋</h1>
-<p align="center"><strong>Final Year CSE</strong></p>
-
+<p align="center"><strong>Final Year CSE Student</strong></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suhasbm09&color=blue" alt="Profile views" />
 </p>
