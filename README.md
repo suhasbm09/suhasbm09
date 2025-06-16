@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm <span style="color:#4FD1C5;">Suhas B M</span> 👋</h1>
 <p align="center">
-  <b>Final Year CSE @ NIE, Mysuru | Software Engineer | Blockchain & AI Builder</b>
+  <b>Final Year CSE Student • Aspiring Software Engineer • Blockchain Enthusiast</b>
 </p>
 
 <p align="center">
