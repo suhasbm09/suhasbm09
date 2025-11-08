@@ -20,7 +20,7 @@
 
 I'm a passionate developer focused on building **scalable, impactful software** at the intersection of **AI** and **blockchain**. I thrive on clean architecture, performance optimization, and creating solutions that solve real-world problems.
 
--   📍 **Location:** Mysuru, Karnataka, India
+-   📍 **Location:**  India
 -   🎓 **Education:** Final Year, Computer Science Engineering
 -   💡 **Interests:** AI/ML, Blockchain, Full-Stack Development, DevOps
 -   🌱 **Currently Learning:** Rust, Advanced Solana, LLMs, and CI/CD Pipelines
