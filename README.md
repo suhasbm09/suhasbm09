@@ -6,7 +6,7 @@
   
   <br>
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4FD1C5?style=for-the-badge)](https://portfolio-suhasbm.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4FD1C5?style=for-the-badge)](https://suhas-bm.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-b-m-88a179244)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhasbannihattimurali@gmail.com)
   
